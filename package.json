@@ -1,0 +1,7 @@
+{
+  "name": "webview-modal",
+  "version": "1.0.0",
+  "main": "webview-modal.js",
+  "author": "Luciano Rocha <rocha.lucho@gmail.com>",
+  "license": "MIT"
+}
